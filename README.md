@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic-square&logo=Tableau&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-square&logo=PyTorch&logoColor=white" width="40" height="100"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-square&logo=PyTorch&logoColor=white" width="80" height="40"/>
 
 <!--
 **steadyfox2/steadyfox2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
