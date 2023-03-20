@@ -1,13 +1,11 @@
 
-### Hi This is steadyfox2 github. thank fo your visiting 👋
-### Skill
+### Hi This is steadyfox2 github. Thank for your visiting 👋
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+
+### MY Skill
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-
-
-
-
-
 
 
 
