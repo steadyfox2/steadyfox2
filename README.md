@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=plastic-square&logo=Tableau&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-square&logo=PyTorch&logoColor=white"/>
 
