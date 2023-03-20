@@ -1,5 +1,5 @@
 
-## Hi This is steadyfox2 github. Thank for your visiting 👋
+### Hi This is steadyfox2 github. Thank for your visiting 👋
 
 👩🏻‍💻 Experiences 👩🏻‍💻
 
@@ -8,7 +8,6 @@
 ### License
 
 📈 데이터 분석 준전문가-ADSP (22/03/25)
-
 📋 SQL 개발자-SQLD (22/04/08)
 
 ### ⚒️ Tech Stack ⚒️
