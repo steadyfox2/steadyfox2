@@ -7,15 +7,10 @@
 
 ### MY Skill
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Numpy-013243?style=plastic-square&logo=Numpy&logoColor=yellow"/><img src="https://img.shields.io/badge/Pandas-150458?style=plastic-square&logo=Pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic-square&logo=scikit-learn&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=plastic-square&logo=Tableau&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=plastic-square&logo=Python&logoColor=white" width="120" height="40"/><img src="https://img.shields.io/badge/Numpy-013243?style=plastic-square&logo=Numpy&logoColor=yellow" width="120" height="40"/><img src="https://img.shields.io/badge/Pandas-150458?style=plastic-square&logo=Pandas&logoColor=white" width="120" height="40"/>
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic-square&logo=scikit-learn&logoColor=white" width="120" height="40"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white" width="120" height="40"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=plastic-square&logo=Tableau&logoColor=white" width="120" height="40"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-square&logo=PyTorch&logoColor=white" width="120" height="40"/>
 
 <!--
