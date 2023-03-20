@@ -1,6 +1,5 @@
-### Hi there 👋
 
-
+### Hi This is steadyfox2 github. thank fo your visiting 👋
 ### Skill
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
