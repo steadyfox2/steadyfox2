@@ -9,6 +9,7 @@
 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white" width="110" height="35"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic-square&logo=Tableau&logoColor=white" width="110" height="35"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-square&logo=PyTorch&logoColor=white" width="110" height="35"/>
 
+## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=steadyfox2&theme=great-gatsby&show_icons=true)
 
