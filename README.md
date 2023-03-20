@@ -1,5 +1,5 @@
 
-Hello This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a steady Data Analyst. 
+Hello This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a steady Data Analyst🤖. 
 
 
 
