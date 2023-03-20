@@ -3,7 +3,9 @@
 ### My goal is to be a steady data analyst.
 
 ### 👩🏻‍💻 Experiences 👩🏻‍💻
+
 🌏 Universiy of Seoul International Relation Master Degree
+
 🏫 T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ 23/03/18)
 
 ### License
