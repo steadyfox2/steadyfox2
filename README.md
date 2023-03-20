@@ -1,7 +1,14 @@
 
 ## Hi This is steadyfox2 github. Thank for your visiting 👋
 
+👩🏻‍💻 Experiences 👩🏻‍💻
 
+🏫 T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ 23/03/18)
+
+### License
+
+📈 데이터 분석 준전문가-ADSP (22/03/25)
+📋 SQL 개발자-SQLD (22/04/08)
 
 ### ⚒️ Tech Stack ⚒️
 
