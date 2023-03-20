@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=yellow"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/><img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL%logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badgeMYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
 
 <!--
 **steadyfox2/steadyfox2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
