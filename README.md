@@ -1,5 +1,7 @@
 
-Hi This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a steady Data Analyst.
+Hello This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a steady Data Analyst. 
+
+
 
 ### 👩🏻‍💻 Experiences
 
@@ -8,11 +10,14 @@ Hi This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a st
 🏫 T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ 23/03/18)
 
 
+
 ### 🏆 License
 
 📈 데이터 분석 준전문가-ADSP (22/11/25)
 
 📋 SQL 개발자-SQLD (23/04/08)
+
+
 
 
 ### ⚒️ Tech Stack
