@@ -2,7 +2,7 @@
 ### Hi This is steadyfox2 github. Thank for your visiting 👋
 ### My goal is to be a steady Data Analyst.
 
-### 👩🏻‍💻 Experiences 👩🏻‍💻
+## 👩🏻‍💻 Experiences
 
 🧑‍🎓 Universiy of Seoul International Relation Master Degree
 
