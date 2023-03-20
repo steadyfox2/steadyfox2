@@ -12,9 +12,10 @@
 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL%logoColor=white"/>
 
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white"/>
 
-##<img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white?logoWidth=40"/>
 <!--
 **steadyfox2/steadyfox2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
