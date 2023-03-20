@@ -4,11 +4,11 @@
 
 ### 👩🏻‍💻 Experiences 👩🏻‍💻
 
-🌏 Universiy of Seoul International Relation Master Degree
+🧑‍🎓 Universiy of Seoul International Relation Master Degree
 
 🏫 T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ 23/03/18)
 
-### License
+### 🏆 License
 
 📈 데이터 분석 준전문가-ADSP (22/03/25)
 
