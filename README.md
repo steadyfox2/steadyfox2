@@ -9,10 +9,8 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=yellow"/>
 
-src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=yellow"/>
 
-
-
+<img src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=yellow"/>
 
 
 #150458
