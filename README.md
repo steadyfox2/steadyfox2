@@ -1,7 +1,7 @@
 
 ### Hi This is steadyfox2 github. Thank for your visiting 👋
 
-###👩🏻‍💻 Experiences 👩🏻‍💻
+👩🏻‍💻 Experiences 👩🏻‍💻
 
 🏫 T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ 23/03/18)
 
