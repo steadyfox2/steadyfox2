@@ -5,7 +5,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=steadyfox2&theme=great-gatsby&show_icons=true)
 
 
-### MY Skill
+### ⚒️ Tech Stack ⚒️
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic-square&logo=Python&logoColor=white" width="110" height="35"/> <img src="https://img.shields.io/badge/Numpy-013243?style=plastic-square&logo=Numpy&logoColor=yellow" width="110" height="35"/> <img src="https://img.shields.io/badge/Pandas-150458?style=plastic-square&logo=Pandas&logoColor=white" width="110" height="35"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic-square&logo=scikit-learn&logoColor=white" width="110" height="35"/> 
 
