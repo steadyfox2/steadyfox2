@@ -18,7 +18,7 @@ Hello This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a
 
 📋 SQL 개발자-SQLD (23/04/08)
 
-📋 컴퓨터활용능력 2급 (예정)
+📋 컴퓨터활용능력 2급
 
 
 ### ⚒️ Tech Stack
