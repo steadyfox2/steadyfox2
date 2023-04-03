@@ -31,4 +31,4 @@ Hello This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a
 
 ### 😄 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=steadyfox2&theme=great-gatsby&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steadyfox2&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
