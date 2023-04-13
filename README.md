@@ -26,6 +26,9 @@ Hello This is steadyfox2 github. Thank for your visiting 👋 My goal is to be a
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic-square&logo=Tableau&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-square&logo=PyTorch&logoColor=white" width="100" height="30"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white" width="100" height="30"/>
 
+### 😸 Contact me
+
+tasan415@naver.com 
 
 ### 😄 Stats
 
